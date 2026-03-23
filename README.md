@@ -1,4 +1,4 @@
-# 🛍️ Diwali Sales Analysis
+# 🛍️ Sales Analysis
 
 A Python-based exploratory data analysis (EDA) project that uncovers consumer purchasing patterns from Diwali season sales data — including insights across gender, age, geography, occupation, and product categories.
 
