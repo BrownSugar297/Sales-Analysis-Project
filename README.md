@@ -103,7 +103,6 @@ cd Sales-Analysis-Project
 jupyter notebook "Sales Analysis.ipynb"
 ```
 
----
 
 ## 📬 Contact
 
